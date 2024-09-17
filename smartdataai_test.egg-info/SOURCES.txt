@@ -1,0 +1,13 @@
+README.md
+setup.py
+smartdata/__init__.py
+smartdata/config.py
+smartdata/custom_agent.py
+smartdata/memory.py
+smartdata/modeler.py
+smartdata/util.py
+smartdataai_test.egg-info/PKG-INFO
+smartdataai_test.egg-info/SOURCES.txt
+smartdataai_test.egg-info/dependency_links.txt
+smartdataai_test.egg-info/requires.txt
+smartdataai_test.egg-info/top_level.txt
