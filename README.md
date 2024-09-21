@@ -44,6 +44,7 @@ Key Features:
 
 ## Integration with Streamlit
 Intration with streamlit is natual where you may use st.pyplot to show the charts and use st.dataframe to show the dataframe. Here is an application we developed for a human resources dataset.
+
 [![Watch the video](https://img.youtube.com/vi/1WWRdvs1s0A/0.jpg)](https://www.youtube.com/watch?v=1WWRdvs1s0A)
 
 ## Integration with FastAPI
