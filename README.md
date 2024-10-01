@@ -45,7 +45,9 @@ Key Features:
 ## Integration with Streamlit
 Intration with streamlit is natual where you may use st.pyplot to show the charts and use st.dataframe to show the dataframe. Here is an application we developed for a human resources dataset.
 
-[![Watch the video](https://github.com/talentai/SmartDataAI/blob/main/demo/thumb.jpg)](https://www.youtube.com/watch?v=GN_x5rBzUUY)
+[![Watch the demo for data designer](https://github.com/talentai/SmartDataAI/blob/main/demo/thumb.jpg)](https://www.youtube.com/watch?v=GN_x5rBzUUY)
+
+[![Watch the demo for data analyst](https://github.com/talentai/SmartDataAI/blob/main/demo/thumb.jpg)](https://www.youtube.com/watch?v=tSPNMlW2yoI)
 
 ## Integration with FastAPI
 Once you have the matplotlib figures from the model, you may convert it to 
